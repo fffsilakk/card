@@ -66,6 +66,9 @@ body {
 }
 
 @media (width <= 600px) {
+  body {
+    overflow: hidden;
+  }
   .card {
     margin: 0 40px;
     padding-left: 50px;
@@ -94,6 +97,9 @@ body {
   }
 
   @media (width <= 440px) {
+    body {
+      overflow: hidden;
+    }
     .card img {
       height: 45vw;
       width: 45vw;
