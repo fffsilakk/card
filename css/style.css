@@ -8,7 +8,7 @@ body {
   margin: 0;
   height: 100vh;
   background-color: #070608;
-  background-image: url(../img/mo.jpg);
+  background-image: url(../img/gu.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -23,7 +23,7 @@ body {
   width: 75vw;
   max-width: 650px;
   padding: 50px 30px 50px 20px;
-  background: #121017;
+  background-color: #0d0b0f;
   border-radius: 24px;
 }
 .card img {
