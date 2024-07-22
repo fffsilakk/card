@@ -103,7 +103,9 @@ body {
     text-align: center;
     flex-direction: column;
   }
-
+  .card img:hover {
+    transform: scale(1.1);
+  }
   .card h2 {
     margin-left: 0;
   }
