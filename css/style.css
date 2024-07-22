@@ -49,11 +49,7 @@ body {
   margin-bottom: 10px;
   transition: 1s;
 }
-.card h2:hover {
-  position: relative;
-  transform: scale(1.2);
-  color: #36ba98;
-}
+
 .card h3 {
   font-size: 16px;
   font-weight: 400;
@@ -130,6 +126,11 @@ body {
       margin: 0;
       display: flex;
       padding: 0;
+    }
+    .card h2:hover {
+      position: relative;
+      transform: scale(1.2);
+      color: #36ba98;
     }
     .card img {
       height: 45vw;
